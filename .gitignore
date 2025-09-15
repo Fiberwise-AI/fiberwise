@@ -1,0 +1,11 @@
+.aider*
+.env
+fiberwise.egg-info/dependency_links.txt
+fiberwise.egg-info/entry_points.txt
+fiberwise.egg-info/PKG-INFO
+fiberwise.egg-info/requires.txt
+fiberwise.egg-info/SOURCES.txt
+fiberwise.egg-info/top_level.txt
+*/__pycache__/*
+*.pyc
+fiberwise/web/*
